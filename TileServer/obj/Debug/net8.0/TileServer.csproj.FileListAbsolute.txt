@@ -66,3 +66,7 @@ C:\Users\ogoga\RiderProjects\TileServer\TileServer\obj\Debug\net8.0\refint\TileS
 C:\Users\ogoga\RiderProjects\TileServer\TileServer\obj\Debug\net8.0\TileServer.pdb
 C:\Users\ogoga\RiderProjects\TileServer\TileServer\obj\Debug\net8.0\TileServer.genruntimeconfig.cache
 C:\Users\ogoga\RiderProjects\TileServer\TileServer\obj\Debug\net8.0\ref\TileServer.dll
+C:\Users\ogoga\RiderProjects\TileServer\TileServer\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\ogoga\RiderProjects\TileServer\TileServer\obj\Debug\net8.0\TileServer.sourcelink.json
+C:\Users\ogoga\RiderProjects\TileServer\TileServer\bin\Debug\net8.0\data\ukraine.mbtiles
+C:\Users\ogoga\RiderProjects\TileServer\TileServer\bin\Debug\net8.0\data\ukraine_accidents.csv

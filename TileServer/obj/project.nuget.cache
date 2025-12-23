@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DQZxqpxkmbw=",
+  "dgSpecHash": "QQzk35zSz7E=",
   "success": true,
   "projectFilePath": "C:\\Users\\ogoga\\RiderProjects\\TileServer\\TileServer\\TileServer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ogoga\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
     "C:\\Users\\ogoga\\.nuget\\packages\\microsoft.data.sqlite\\9.0.0\\microsoft.data.sqlite.9.0.0.nupkg.sha512",
     "C:\\Users\\ogoga\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "C:\\Users\\ogoga\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
