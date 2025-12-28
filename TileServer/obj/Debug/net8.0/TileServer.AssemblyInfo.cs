@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TileServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3946addc384d8b27454650252c6d35dd855cc03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d062925e7c4371400fe8ba29132ea91189f4553e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TileServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TileServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
